@@ -1,0 +1,21 @@
+body{
+    background: rgb(202, 200, 200)!important;
+    color:rgb(6, 29, 14);
+}
+.results{
+    width:73px!important;
+}
+.vote{
+    width:73px!important;
+    /* background:rgb(240, 212, 160)!important; */
+}
+.cont{
+    background: #043f97;
+    min-height:600px;
+    padding:30px 30px;
+    margin:auto 0;
+    
+}
+h1,h2,h3,h4,h5{
+    color:rgb(202, 197, 197);
+}
